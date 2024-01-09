@@ -1,7 +1,7 @@
 # Google-Voice-assistant
 
 ## Introduction
-Welcome to Riya's Voice Assistant, a simple voice-activated assistant built with Python using the pyttsx3 and speech_recognition libraries. This assistant allows you to perform Google searches using voice commands.
+Welcome to Voice Assistant, a simple voice-activated assistant built with Python using the pyttsx3 and speech_recognition libraries. This assistant allows you to perform Google searches using voice commands.
 
 ## Features
 - **Voice Interaction:** Communicate with the assistant using voice commands.
