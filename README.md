@@ -15,22 +15,17 @@ pip install SpeechRecognition
 ```
 
 ## How to Use
-1. Clone the repository to your local machine.
-   ```bash
-   git clone https://github.com/your-username/voice-assistant.git
-   ```
-
-2. Navigate to the project directory.
+1. Navigate to the project directory.
    ```bash
    cd voice-assistant
    ```
 
-3. Run the voice assistant script.
+2. Run the voice assistant script.
    ```bash
    python voice_assistant.py
    ```
 
-4. Follow the instructions provided by the assistant.
+3. Follow the instructions provided by the assistant.
 
 ## Configuration
 - **Text-to-Speech Engine:** The assistant uses the SAPI5 text-to-speech engine. 
