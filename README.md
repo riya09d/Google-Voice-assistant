@@ -1,4 +1,4 @@
-# Google-Voice-assistant
+# Google Search -Voice-assistant
 
 ## Introduction
 Welcome to Voice Assistant, a simple voice-activated assistant built with Python using the pyttsx3 and speech_recognition libraries. This assistant allows you to perform Google searches using voice commands.
